@@ -14,15 +14,12 @@
        <center> <a href="https://www.linkedin.com/in/juan-manuel-alarcon-a492391b8/">Perfil de Linkedin</a> </center>
        <center> <a href="https://github.com/JuanMManuel">Github</a></center>
        <figure align="center">
-            <img src="/Users/juan/Documents/Octavo semestre/Introduccion al Desarrollo Web/proyecto/recursos/IMG_3848.png" width="150" alt="Foto de Juan Manuel">
-            
+            <img src="/Users/juan/Documents/Octavo semestre/Introduccion al Desarrollo Web/proyecto/recursos/IMG_3848.png" width="150" alt="Foto de Juan Manuel">  
        </figure>
-       
-
     </header>
     <main>
         <aside>
-            <figure align="left">
+            <figure align="left" style="background-color:rgb(110, 110, 112);">
                 <h2>Contacto</h2>
                 <p>Telefóno: 3188453426</p>
                 <p>Email: juan_172000@hotmail.com</p>
@@ -32,7 +29,7 @@
             </figure>
         </aside>
         <aside>
-            <figure align="center">
+            <figure align="center" style="background-color:rgb(110, 110, 112);">
                 <h3>Perfil Personal</h3>
                 <p>Soy una persona integra, respetuosa y colaborativa. 
                     Me he caracterizado siempre por querer servir  a los
@@ -46,7 +43,7 @@
             </figure>
         </aside>
         <aside>
-            <figure align="center">
+            <figure align="center" style="background-color:rgb(110, 110, 112);">
                 <h3>Perfil Profesional</h3>
                 <p>Profesionalmente me desempeño en el area de las Telecomunicaciones, a lo largo
                     de mis estudios, siempre me llamo la atencion el tema de redes de datos,
@@ -59,14 +56,25 @@
                     <br>
                     He desarrollado proyectos que implementan el uso de AWS y mocrocontoladores
                     para hacer un proyecto de agricultura de precisión a pequeña escala.
-
-
-
                 </p> 
-                
             </figure>
         </aside>
         
     </main>
+    <footer>
+        <section style="background-color:rgb(107, 145, 77);">
+            <h3>Programación de citas</h3>
+            <form action="">
+                <label for="Cita">
+                    <span>¿Cuál es tu nombre?</span>
+                    <input type="text" id="nombre" placeholder="Nombre" name="nombre" required>
+                    <span>¿Qué día la cita?</span>
+                    <input type="datetime-local" id="cita" name="cita" required>
+                    <input type="submit" value="Programar cita" />
+                    <input type="reset"value="Borrar" />
+                </label>
+            </form>
+        </section>
+    </footer>
 </body>
 </html>
