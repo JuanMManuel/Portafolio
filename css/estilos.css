@@ -16,39 +16,63 @@ header{
     width: 25rem;
 
 }
-.personal{
-    background-color: rgb(212, 192, 166);
-    list-style-type: none;
-}
+
 li{
     background-color: rgb(212, 192, 166);
 }
-.idiomas{
+.list{
     background-color: rgb(212, 192, 166);
     list-style-type: none;
 
 }
-.educacion{
-    background-color: rgb(212, 192, 166);
-    list-style-type: none;
-}
+
 .perfilp{
     text-align: center;
     background-color: rgb(212, 192, 166);
     width: 50rem;
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 10px;
+    
     
 }
 .descripcion{
     text-align: center;
     background-color: rgb(212, 192, 166);
+    
 }
 
-ol{
-    color: tomato;
-    list-style-type: none;
-    display: block;
+.perfilpro{
+    text-align: center;
+    background-color: rgb(212, 192, 166);
+    width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    
+
 }
+.subtitulo{
+    text-align: center;
+    background-color: rgb(212, 192, 166);
+}
+.ex{
+    
+    background-color: rgb(212, 192, 166);
+    width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.skills{
+    
+    background-color: rgb(212, 192, 166);
+    width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+
 
 
