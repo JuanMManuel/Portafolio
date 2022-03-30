@@ -71,6 +71,13 @@ li{
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 10px;
+    
+}
+footer{
+    background-color: chartreuse;
+}
+.cita{
+    background-color: chartreuse;
 }
 
 
