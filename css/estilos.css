@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(248, 224, 193);
+}
+header{
+    position: sticky;
+    top: 0;
+    color: black;
+    text-align: center;
+}
+.foto{
+    text-align: center;
+}
+
+.informacion{
+    background-color: rgb(212, 192, 166);
+    width: 25rem;
+
+}
+.personal{
+    background-color: rgb(212, 192, 166);
+    list-style-type: none;
+}
+li{
+    background-color: rgb(212, 192, 166);
+}
+.idiomas{
+    background-color: rgb(212, 192, 166);
+    list-style-type: none;
+
+}
+.educacion{
+    background-color: rgb(212, 192, 166);
+    list-style-type: none;
+}
+.perfilp{
+    text-align: center;
+    background-color: rgb(212, 192, 166);
+    width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.descripcion{
+    text-align: center;
+    background-color: rgb(212, 192, 166);
+}
+
+ol{
+    color: tomato;
+    list-style-type: none;
+    display: block;
+}
+
+
