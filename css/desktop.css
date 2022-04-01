@@ -32,8 +32,8 @@ img{
 
 .informacion{
     background-color: #70B4FF;
-    width: 50%;
-    height: 10%;
+    width: 35%;
+    max-width: 40%;
     text-align: center;
     margin: auto;
     margin-bottom: 10px;
