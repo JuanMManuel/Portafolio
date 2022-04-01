@@ -1,6 +1,10 @@
 *{
-    background-color: rgb(248, 224, 193);
+    background-color: #0AA4FC;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
 header{
     position: sticky;
     top: 0;
@@ -10,74 +14,89 @@ header{
 .foto{
     text-align: center;
 }
+.informacionGeneral{
+    background-color: #FFF385;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    display: flex;
+    
+}
 
 .informacion{
-    background-color: rgb(212, 192, 166);
-    width: 25rem;
+    background-color: #FFF385;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    
+    
+    
 
+}
+p{
+    background-color: #FFF385;
 }
 
 li{
     background-color: rgb(212, 192, 166);
 }
+
 .list{
     background-color: rgb(212, 192, 166);
     list-style-type: none;
-
+    width: 50%;
 }
 
-.perfilp{
+    
+    
+.perfilPersonal{
     text-align: center;
-    background-color: rgb(212, 192, 166);
-    width: 50rem;
-    display: flex;
-    flex-wrap: wrap;
+    background-color: #FFF385;
+    width: 100%;
     margin-bottom: 10px;
     
     
 }
 .descripcion{
     text-align: center;
-    background-color: rgb(212, 192, 166);
+    background-color: #FFF385;
     
 }
 
-.perfilpro{
+.perfilProfesional{
     text-align: center;
-    background-color: rgb(212, 192, 166);
-    width: 50rem;
-    display: flex;
-    flex-wrap: wrap;
+    background-color: #FFF385;
+    width: 100%;
     margin-bottom: 10px;
     
 
 }
 .subtitulo{
     text-align: center;
-    background-color: rgb(212, 192, 166);
+    background-color: #FFF385;
 }
-.ex{
-    
-    background-color: rgb(212, 192, 166);
-    width: 50rem;
-    display: flex;
-    flex-wrap: wrap;
+.experiencia{
+    text-align: center;
+    background-color: #FFF385;
+    width: 100%;
     margin-bottom: 10px;
 }
 .skills{
-    
-    background-color: rgb(212, 192, 166);
-    width: 50rem;
-    display: flex;
-    flex-wrap: wrap;
+    text-align: center;
+    background-color: #FFF385;
+    width: 100%;
     margin-bottom: 10px;
     
 }
-footer{
-    background-color: chartreuse;
-}
 .cita{
-    background-color: chartreuse;
+    background-color: #85B6FF;
+}
+span{
+    background-color: #85B6FF;
+}
+input{
+    background-color: #85B6FF;
 }
 
 
