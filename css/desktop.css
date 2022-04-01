@@ -1,5 +1,5 @@
 *{
-    background-color: #FFD285;
+    background-color:#FEF56D;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -14,24 +14,26 @@ header{
     font-style: italic;
 }
 .presentacion{
-    text-align: left;
+    text-align: center;
 }
 img{
-    border-radius: 100px;
+    border-radius: 200px;
     width: 35%;
 }
 
 .informacionGeneral{
-    background-color: #FFE2E0;
+    background-color: #70B4FF;
     width: 100%;
+    text-align: center;
     margin-bottom: 10px;
-    
-    
+    display: flex;
+    padding: auto;
 }
 
 .informacion{
-    background-color: #FFE2E0;
-    width: 100%;
+    background-color: #70B4FF;
+    width: 50%;
+    height: 10%;
     text-align: center;
     margin: auto;
     margin-bottom: 10px;
@@ -41,61 +43,70 @@ img{
 
 }
 p{
-    background-color: #FFE2E0;
+    background-color: #70B4FF;
     font-family: 'Times New Roman', Times, serif;
 }
 
 
+
+.perfil{
     
+    width: 100%;
+    text-align: justify;
+    margin-bottom: 10px;
+    display: flex;
     
+}
 .perfilPersonal{
     text-align: center;
-    background-color: #FFE2E0;
-    width: 100%;
+    background-color: #70B4FF;
+    width: 90%;
     margin-bottom: 10px;
-    
-    
+    border-top-left-radius: 20px;
+    margin: 5px;
 }
 .descripcion{
     text-align: center;
-    background-color: #FFE2E0;
+    background-color: #70B4FF;
     
 }
 
 .perfilProfesional{
     text-align: center;
-    background-color: #FFE2E0;
+    background-color: #7cb9fc;
     width: 100%;
     margin-bottom: 10px;
+    margin: 5px;
     
 
 }
 .subtitulo{
     text-align: center;
-    background-color: #FFE2E0;
+    background-color: #70B4FF;
     font-family: Verdana;
 }
 .experiencia{
     text-align: center;
-    background-color: #FFE2E0;
+    background-color: #70B4FF;
     width: 100%;
     margin-bottom: 10px;
+    margin: 5px;
 }
 .skills{
     text-align: center;
-    background-color: #FFE2E0;
+    background-color: #70B4FF;
     width: 100%;
     margin-bottom: 10px;
-    
+    margin: 5px;
 }
 .citas{
-    background-color: #FFE2E0;
+    background-color: #FEF56D;
 }
 span{
-    background-color: #FFE2E0;
+    background-color: #FEF56D;
 }
 input{
-    background-color: #FFE2E0;
+    background-color: #FEF56D;
 }
 .borrar{
     background: transparent;
@@ -107,14 +118,14 @@ input{
     -moz-box-shadow: 6px 5px 24px #666666;
     box-shadow: 6px 5px 24px #666666;
     font-family: Arial;
-    color: #fafafa;
+    color: black;
     font-size: 10px;
     padding: 10px;
     text-decoration: none;
 }
 .borrar:hover {
     background-color: rgb(192, 17, 17);
-    color: black;
+    color: white;
 }
 
 .programarCita{
@@ -127,7 +138,7 @@ input{
     -moz-box-shadow: 6px 5px 24px #666666;
     box-shadow: 6px 5px 24px #666666;
     font-family: Arial;
-    color: #fafafa;
+    color: black;
     font-size: 10px;
     padding: 4px;
     text-decoration: none;
@@ -135,12 +146,17 @@ input{
 
 .programarCita:hover{
     background-color: rgb(20, 168, 20);
-    color: black;
+    color: white;
 }
 
 .nombre{
     font-family: cursive;
     
 }
+
+
+
+
+
 
 
