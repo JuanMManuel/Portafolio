@@ -1,5 +1,5 @@
 *{
-    background-color: #0AA4FC;
+    background-color: #FFD285;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,13 +10,15 @@ header{
     top: 0;
     color: black;
     text-align: center;
-    
+    font-size: large;
+    font-style: italic;
 }
-.foto{
+.presentacion{
     text-align: center;
 }
+
 .informacionGeneral{
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     text-align: center;
     margin-bottom: 10px;
@@ -25,7 +27,7 @@ header{
 }
 
 .informacion{
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     text-align: center;
     margin: auto;
@@ -36,8 +38,8 @@ header{
 
 }
 p{
-    background-color: #FFF385;
-    font-style: oblique;
+    background-color: #FFE2E0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -45,7 +47,7 @@ p{
     
 .perfilPersonal{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     
@@ -53,13 +55,13 @@ p{
 }
 .descripcion{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     
 }
 
 .perfilProfesional{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     
@@ -67,17 +69,18 @@ p{
 }
 .subtitulo{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
+    font-family: Verdana;
 }
 .experiencia{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
 }
 .skills{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     
