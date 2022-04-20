@@ -1,3 +1,4 @@
+
 *{
     background-color: #FFD285;
     margin: 0;
@@ -23,15 +24,18 @@ img{
 
 .informacionGeneral{
     background-color: #FFE2E0;
-    width: 100%;
+    width: 85%;
     margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
     
     
 }
 
 .informacion{
     background-color: #FFE2E0;
-    width: 100%;
+    width: 85%;
     text-align: center;
     margin: auto;
     margin-bottom: 10px;
@@ -40,19 +44,25 @@ img{
     
 
 }
+
 p{
     background-color: #FFE2E0;
     font-family: 'Times New Roman', Times, serif;
 }
 
 
+.perfil{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
     
-    
+}
 .perfilPersonal{
     text-align: center;
     background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
+    
     
     
 }

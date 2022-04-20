@@ -1,5 +1,5 @@
 *{
-    background-color: #0AA4FC;
+    background-color: #FFD285;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -17,16 +17,18 @@ img{
     width: 35%;
 }
 .informacionGeneral{
-    background-color: #FFF385;
-    width: 100%;
+    background-color: #FFE2E0;
+    width: 85%;
     margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .presentacion{
     text-align: center;
 }
 
 .informacion{
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     text-align: center;
     margin: auto;
@@ -37,16 +39,20 @@ img{
 
 }
 p{
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     
 }
 
-
+.perfil{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
     
     
 .perfilPersonal{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     
@@ -54,13 +60,13 @@ p{
 }
 .descripcion{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     
 }
 
 .perfilProfesional{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     
@@ -68,7 +74,7 @@ p{
 }
 .subtitulo{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
 }
 .experiencia{
     text-align: center;
@@ -78,7 +84,7 @@ p{
 }
 .skills{
     text-align: center;
-    background-color: #FFF385;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     

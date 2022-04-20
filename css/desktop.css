@@ -1,5 +1,5 @@
 *{
-    background-color:#FEF56D;
+    background-color:#FFD285;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -22,7 +22,7 @@ img{
 }
 
 .informacionGeneral{
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     width: 100%;
     text-align: center;
     margin-bottom: 10px;
@@ -31,7 +31,7 @@ img{
 }
 
 .informacion{
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     width: 35%;
     max-width: 40%;
     text-align: center;
@@ -43,7 +43,7 @@ img{
 
 }
 p{
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -59,7 +59,7 @@ p{
 }
 .perfilPersonal{
     text-align: center;
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     width: 90%;
     margin-bottom: 10px;
     border-top-left-radius: 20px;
@@ -67,13 +67,13 @@ p{
 }
 .descripcion{
     text-align: center;
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     
 }
 
 .perfilProfesional{
     text-align: center;
-    background-color: #7cb9fc;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     margin: 5px;
@@ -82,19 +82,19 @@ p{
 }
 .subtitulo{
     text-align: center;
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     font-family: Verdana;
 }
 .experiencia{
     text-align: center;
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     margin: 5px;
 }
 .skills{
     text-align: center;
-    background-color: #70B4FF;
+    background-color: #FFE2E0;
     width: 100%;
     margin-bottom: 10px;
     margin: 5px;
